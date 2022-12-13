@@ -26,3 +26,6 @@ BraTS Dataset 2D Segmentation: https://figshare.com/authors/Jun_Cheng/784074
 ![image segmentation results 3D U-Net model 2](https://user-images.githubusercontent.com/34732790/207468657-169d2b3e-6b79-461a-90d9-7bc3e601027d.png)
 ![image segmentation results 3D U-Net model 1](https://user-images.githubusercontent.com/34732790/207468674-2b29c11f-5a01-496f-a6d9-7bdbf6f616f4.png)
 ![Results Bar Graph Screenshot](https://user-images.githubusercontent.com/34732790/207468742-b25ce751-2ed3-430e-b0cb-ed3e948eadb1.png)
+
+## Training 
+![results](https://user-images.githubusercontent.com/34732790/207469273-7b4076af-1eda-4be1-9417-733192809e42.png)
