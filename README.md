@@ -15,6 +15,7 @@ BraTS Dataset 2D Segmentation: https://figshare.com/authors/Jun_Cheng/784074
 ![Dice equation](https://user-images.githubusercontent.com/34732790/207468457-8e5b3c87-c63e-4cde-9c0e-71854925f714.png)
 
 
-## 3D Segmentation Results
+## 3D Segmentation Predictions and Results
 ![image segmentation results 3D U-Net model 2](https://user-images.githubusercontent.com/34732790/207468657-169d2b3e-6b79-461a-90d9-7bc3e601027d.png)
 ![image segmentation results 3D U-Net model 1](https://user-images.githubusercontent.com/34732790/207468674-2b29c11f-5a01-496f-a6d9-7bdbf6f616f4.png)
+![Results Bar Graph Screenshot](https://user-images.githubusercontent.com/34732790/207468742-b25ce751-2ed3-430e-b0cb-ed3e948eadb1.png)
