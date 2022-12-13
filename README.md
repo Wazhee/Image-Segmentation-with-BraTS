@@ -3,11 +3,12 @@
 BraTS Dataset for 3D Segmentation: https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation
 BraTS Dataset 2D Segmentation: https://figshare.com/authors/Jun_Cheng/784074
 
-### BraTS Data for 2D segmentation
-![0](https://user-images.githubusercontent.com/34732790/207469073-44874210-9473-4c75-be02-be2d51be88f9.png)
 
-### BraTS Data for 3D segmentation
+### BraTS Data for 3D segmentation (BraTS 1)
 ![BraTS 1](https://user-images.githubusercontent.com/34732790/207469150-7d7c8e12-3400-407f-ae02-2ad8554c17a0.png)
+
+### BraTS Data for 2D segmentation (BraTS 2)
+![0](https://user-images.githubusercontent.com/34732790/207469073-44874210-9473-4c75-be02-be2d51be88f9.png)
 
 
 ## 2D Image Segmentation Results
